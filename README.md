@@ -2,7 +2,11 @@
 
 ### Goal:
 
-The app is meant to practie solving programming problems using the Go language.
+This tool is meant to practice solving programming problems using the Go language.
+
+### Setup (using `go install`):
+
+`go install github.com/mdysrx/faker200@latest`
 
 ### Examples:
 
