@@ -3,6 +3,7 @@
 ### Examples:
 
 `faker 1` should generate a fake empty txt file
+
 `faker 3 1` should create 3 directories, with 1 empty text file in each
 
 ### Goal:
