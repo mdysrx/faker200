@@ -1,7 +1,7 @@
 ## faker200 is a CLI tool that genrates fake files.
 
 ### Demo:
-[demo](!demo.gif)
+![demo](demo.gif)
 
 ### Goal:
 
