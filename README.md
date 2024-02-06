@@ -1,5 +1,8 @@
 ## faker200 is a CLI tool that genrates fake files.
 
+### Demo:
+[demo](!demo.gif)
+
 ### Goal:
 
 This tool is meant to practice solving programming problems using the Go language.
