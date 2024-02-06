@@ -6,10 +6,12 @@
 
 `faker -f 3 -d 10` should create 10 directories, including 3 empty .txt files each
 
+`faker -h` show help
+
 ### Goal:
 
-The app is meant to practie solving programming problems using the Go language
+The app is meant to practie solving programming problems using the Go language.
 
-Idea and execution by Muhammad Yasser @ the 2024
+Idea and execution by Muhammad Yasser @ the 2024.
 
 Twitter/Github: @mdysrx
